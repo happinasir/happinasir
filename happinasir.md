@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @happinasir
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on GitHub.
 - 📫 Please to reach me @happinasir!
 
 <!---
